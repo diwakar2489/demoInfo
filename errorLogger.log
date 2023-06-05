@@ -1,0 +1,32 @@
+2023-05-12T12:07:43.382Z - [INFO] - {"status":true,"msg":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEyNiwibmFtZSI6IkRpd2FrZXIgICAgUGFuZGV5IiwiaW1nIjoiIiwiZW1haWwiOiJkaXdha2FyLnBhbmRleUBxYnNsZWFybmluZy5jb20iLCJyb2xlX2lkIjoxMzAsImRlcHRfaWQiOjE2LCJzeXN0ZW1Sb2xlIjoyLCJEZXBhcnRtZW50TmFtZSI6IlNvZnR3YXJlIiwiUm9sZU5hbWUiOiJKYXZhIERldmVsb3BlciIsImlhdCI6MTY4Mzg5MzI2MywiZXhwIjoxNjgzODk2ODYzfQ.9fQZySaBR-5FwHEvHoN5VJYOm7n6tFoeQEDwymjQshE"}2023-05-12T12:12:48.456Z - [INFO] - DB connectionRequest Successful 55
+2023-05-12T12:13:22.201Z - [INFO] - DB connectionRequest Successful 56
+2023-05-12T12:21:41.027Z - [INFO] - DB connectionRequest Successful 61
+2023-05-17T10:44:56.311Z - [INFO] - DB connectionRequest Successful 550
+2023-05-17T10:47:07.506Z - [INFO] - DB connectionRequest Successful 551
+2023-05-17T10:47:35.410Z - [INFO] - DB connectionRequest Successful 552
+2023-05-17T11:33:32.456Z - [INFO] - DB connectionRequest Successful 569
+2023-05-17T11:34:39.816Z - [INFO] - DB connectionRequest Successful 570
+2023-05-17T11:35:15.548Z - [INFO] - [object Object]
+2023-05-17T11:35:15.633Z - [INFO] - {"status":true,"msg":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEyNiwibmFtZSI6IkRpd2FrZXIgICAgUGFuZGV5IiwiaW1nIjoiIiwiZW1haWwiOiJkaXdha2FyLnBhbmRleUBxYnNsZWFybmluZy5jb20iLCJyb2xlX2lkIjoxMzAsImRlcHRfaWQiOjE2LCJzeXN0ZW1Sb2xlIjoyLCJEZXBhcnRtZW50TmFtZSI6IlNvZnR3YXJlIiwiUm9sZU5hbWUiOiJKYXZhIERldmVsb3BlciIsImlhdCI6MTY4NDMyMzMxNSwiZXhwIjoxNjg0MzI2OTE1fQ.HHdsbcLu-7QNeBQQx5EF7WlOioMbCVZXks3glC07Pvc"}
+2023-05-17T11:35:50.151Z - [INFO] - DB connectionRequest Successful 571
+2023-05-17T11:58:11.313Z - [INFO] - [object Object]
+2023-05-17T11:58:11.407Z - [INFO] - {"status":true,"msg":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEyNiwibmFtZSI6IkRpd2FrZXIgICAgUGFuZGV5IiwiaW1nIjoiIiwiZW1haWwiOiJkaXdha2FyLnBhbmRleUBxYnNsZWFybmluZy5jb20iLCJyb2xlX2lkIjoxMzAsImRlcHRfaWQiOjE2LCJzeXN0ZW1Sb2xlIjoyLCJEZXBhcnRtZW50TmFtZSI6IlNvZnR3YXJlIiwiUm9sZU5hbWUiOiJKYXZhIERldmVsb3BlciIsImlhdCI6MTY4NDMyNDY5MSwiZXhwIjoxNjg0MzI4MjkxfQ.E4SUsQddJ3L_DvDoyZV7mJm6VVfiZ2tYQNh2eOdLW7E"}
+2023-05-17T11:59:13.932Z - [INFO] - [object Object]
+2023-05-17T11:59:13.934Z - [ERROR] - Database server not respond error Error: Cannot enqueue Query after being destroyed.
+2023-05-17T11:59:13.941Z - [INFO] - {"status":false,"msg":"Database server not respond"}
+2023-05-17T11:59:19.265Z - [INFO] - [object Object]
+2023-05-17T11:59:19.267Z - [ERROR] - Database server not respond error Error: Cannot enqueue Query after being destroyed.
+2023-05-17T11:59:19.269Z - [INFO] - {"status":false,"msg":"Database server not respond"}
+2023-05-17T12:21:15.469Z - [INFO] - DB connectionRequest Successful 618
+2023-05-17T12:21:22.202Z - [INFO] - DB connectionRequest Successful 619
+2023-05-17T12:21:39.445Z - [INFO] - DB connectionRequest Successful 620
+2023-05-17T12:22:26.253Z - [INFO] - DB connectionRequest Successful 621
+2023-05-17T12:23:09.982Z - [INFO] - [object Object]
+2023-05-17T12:23:10.057Z - [INFO] - {"status":true,"msg":"login successfully","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEyNiwibmFtZSI6IkRpd2FrZXIgICAgUGFuZGV5IiwiaW1nIjoiIiwiZW1haWwiOiJkaXdha2FyLnBhbmRleUBxYnNsZWFybmluZy5jb20iLCJyb2xlX2lkIjoxMzAsImRlcHRfaWQiOjE2LCJzeXN0ZW1Sb2xlIjoyLCJEZXBhcnRtZW50TmFtZSI6IlNvZnR3YXJlIiwiUm9sZU5hbWUiOiJKYXZhIERldmVsb3BlciIsImlhdCI6MTY4NDMyNjE5MCwiZXhwIjoxNjg0MzI5NzkwfQ.ElP834nqZ-lrGxQpUq29-46prqWYY0m2zltpL1y_hfk"}
+2023-05-18T05:24:07.812Z - [INFO] - DB connectionRequest Successful 729
+2023-05-18T05:24:41.273Z - [INFO] - DB connectionRequest Successful 730
+2023-05-18T05:26:06.461Z - [INFO] - DB connectionRequest Successful 732
+2023-05-18T05:26:14.789Z - [INFO] - DB connectionRequest Successful 733
+2023-05-18T05:26:40.766Z - [INFO] - DB connectionRequest Successful 734
+2023-05-18T05:28:30.641Z - [INFO] - DB connectionRequest Successful 735
+2023-05-18T05:29:51.518Z - [INFO] - DB connectionRequest Successful 738
